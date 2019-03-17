@@ -1,0 +1,1 @@
+Programy stanowi¹ odpowiedzi na proste zadania wykorzystuj¹ce ró¿ne mechanizmy programowania w jêzyku C++.
