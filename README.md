@@ -1,1 +1,1 @@
-Folders corespond with names of subjects from university or with problems.
+Folders corespond with names of subjects from university, with problems or sites of which they come from.
