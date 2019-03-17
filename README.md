@@ -1,1 +1,1 @@
-Files corespond with names of subjects from university or problems.
+Folders corespond with names of subjects from university or problems.
