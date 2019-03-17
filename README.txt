@@ -1,0 +1,1 @@
+Heurystyki i analizy czasowe ró¿nych sposobów m.in.: sortowania, przeszukiwania grafów, drzewa binarnego (tworzenia/dodawania elementów/usuwania elementów i odbudowy) itp.
